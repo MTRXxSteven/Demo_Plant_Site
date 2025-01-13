@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MTRXxSteven.github.io/static/css/main.b2af0d67.css",
-    "main.js": "/MTRXxSteven.github.io/static/js/main.055dd492.js",
-    "static/js/453.ed3810f9.chunk.js": "/MTRXxSteven.github.io/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/MTRXxSteven.github.io/index.html",
-    "main.b2af0d67.css.map": "/MTRXxSteven.github.io/static/css/main.b2af0d67.css.map",
-    "main.055dd492.js.map": "/MTRXxSteven.github.io/static/js/main.055dd492.js.map",
-    "453.ed3810f9.chunk.js.map": "/MTRXxSteven.github.io/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Demo_Plant_Site/static/css/main.b2af0d67.css",
+    "main.js": "/Demo_Plant_Site/static/js/main.981e187d.js",
+    "static/js/453.ed3810f9.chunk.js": "/Demo_Plant_Site/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Demo_Plant_Site/index.html",
+    "main.b2af0d67.css.map": "/Demo_Plant_Site/static/css/main.b2af0d67.css.map",
+    "main.981e187d.js.map": "/Demo_Plant_Site/static/js/main.981e187d.js.map",
+    "453.ed3810f9.chunk.js.map": "/Demo_Plant_Site/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2af0d67.css",
-    "static/js/main.055dd492.js"
+    "static/js/main.981e187d.js"
   ]
 }
