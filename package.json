@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://MTRXxSteven.github.io/My_Plant_Site",
+  "homepage": "https://MTRXxSteven.github.io/Demo_Plant_Site",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
