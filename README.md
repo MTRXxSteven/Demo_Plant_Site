@@ -14,19 +14,19 @@ Welcome to Demo_Plant_Site! This is a demo React web application that showcases 
 
 To get started with Demo_Plant_Site, follow these steps:
 
-## 1. Clone the repository
+1. Clone the repository
 
 ### `git clone https://github.com/MTRXxSteven/Demo_Plant_Site.git`
 
-## 2. Navigate into the project directory
+2. Navigate into the project directory
 
 ### `cd Demo_Plant_Site`
 
-## 3. Install the dependencies
+3. Install the dependencies
 
 ### `npm install`
 
-## 4. Start the development server
+4. Start the development server
 
 ### `npm start`
 
