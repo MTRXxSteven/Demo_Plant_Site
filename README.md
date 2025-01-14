@@ -1,12 +1,26 @@
-# Getting Started with Create React App
+# Demo_Plant_Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Demo_Plant_Site! This is a demo React web application that showcases various filtering options, such as category buttons, radio filters, and a search bar. It also demonstrates how to retrieve and display data from a database in an organized manner with custom styles. This app is perfect for learning about React functionality and building filterable web interfaces.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+Category Filters: Allows users to filter plants by categories using clickable buttons.
 
-### `npm start`
+Radio Filters: Offers additional filtering options via radio buttons for more specific plant searches.
+
+Search Bar: A search bar to search for plants by name or other properties.
+
+Data Fetching: Retrieves plant data from a database and displays it dynamically.
+
+Organized Display: Data is presented in an easy-to-read, organized fashion using custom styles and components.
+
+## Installation
+
+To get started with Demo_Plant_Site, follow these steps:
+
+## Clone the repository
+
+### `git clone https://github.com/your-username/Demo_Plant_Site.git`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
