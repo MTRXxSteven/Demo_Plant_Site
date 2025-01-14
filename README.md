@@ -4,81 +4,70 @@ Welcome to Demo_Plant_Site! This is a demo React web application that showcases 
 
 ## Features
 
-Category Filters: Allows users to filter plants by categories using clickable buttons.
-
-Radio Filters: Offers additional filtering options via radio buttons for more specific plant searches.
-
-Search Bar: A search bar to search for plants by name or other properties.
-
-Data Fetching: Retrieves plant data from a database and displays it dynamically.
-
-Organized Display: Data is presented in an easy-to-read, organized fashion using custom styles and components.
+- Category Filters: Allows users to filter plants by categories using clickable buttons.
+- Radio Filters: Offers additional filtering options via radio buttons for more specific plant searches.
+- Search Bar: A search bar to search for plants by name or other properties.
+- Data Fetching: Retrieves plant data from a database and displays it dynamically.
+- Organized Display: Data is presented in an easy-to-read, organized fashion using custom styles and components.
 
 ## Installation
 
 To get started with Demo_Plant_Site, follow these steps:
 
-## Clone the repository
+## 1. Clone the repository
 
-### `git clone https://github.com/your-username/Demo_Plant_Site.git`
+### `git clone https://github.com/MTRXxSteven/Demo_Plant_Site.git`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 2. Navigate into the project directory
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `cd Demo_Plant_Site`
 
-### `npm test`
+## 3. Install the dependencies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `npm install`
 
-### `npm run build`
+## 4. Start the development server
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `npm start`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This will open the app in your default web browser at http://localhost:3000.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features Overview
 
-### `npm run eject`
+## Category Filters
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Users can click on different category buttons to filter plants based on categories
+-The plants are dynamically filtered based on category selection.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Radio Filters
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Provides additional filtering functionality through radio buttons.
+- Filters can include options like plant type, color, price range.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Search Bar
 
-## Learn More
+-A real-time search bar to search for plants by name or other properties.
+-The search results update dynamically as the user types.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Data Fetching
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- The app fetches plant data from a mock database
+- The data is displayed in a well-organized layout, grouped by categories.
 
-### Code Splitting
+## Organized Display
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- The plant data is displayed in an easy-to-read grid or list format.
+- Custom styling is applied to ensure the display is both functional and aesthetically pleasing.
 
-### Analyzing the Bundle Size
+## How to use
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Open the app in your browser after running the development server.
+2. Explore the Category Filters by clicking on the different category buttons.
+3. Use the Radio Filters to narrow down the plant selection.
+4. Type in the Search Bar to search for plants by name or property.
+5. The filtered results will dynamically update as you interact with the filters.
 
-### Making a Progressive Web App
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Special thanks to all the open-source libraries and tools that helped make this app possible.
+This demo was created to showcase filtering functionality in React.
