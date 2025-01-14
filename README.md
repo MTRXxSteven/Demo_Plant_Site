@@ -32,7 +32,9 @@ To get started with Demo_Plant_Site, follow these steps:
 
 This will open the app in your default web browser at http://localhost:3000.
 
-## Features Overview
+
+
+# Features Overview
 
 ## Category Filters
 
