@@ -48,8 +48,8 @@ This will open the app in your default web browser at http://localhost:3000.
 
 ## Search Bar
 
--A real time search bar to search for plants by name or other properties.
--The search results update dynamically as the user types.
+- A real time search bar to search for plants by name or other properties.
+- The search results update dynamically as the user types.
 
 ## Data Fetching
 
